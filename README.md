@@ -6,9 +6,9 @@ Currently I am [available for hire](https://twitter.com/mohamedhima96) (remotely
 
 My areas of interest are: 
 
-- JavaScript infrastructure: tooling, frameworks and libraries
-- Design Systems and CSS architecture
-- Leadership and management roles
+● Created, maintained and published native Android applications using Java and Kotlin.
+● Involve in the full mobile application development lifecycle including designing, coding, testing, and publishing.
+● Using Kotlin as programming language and using MVP, MVVM, MVI patterns.
 
 💗 You can [sponsor my work](https://github.com/sponsors/mohamedebrahim96).
 
