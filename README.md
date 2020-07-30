@@ -15,3 +15,11 @@ My areas of interest are:
 💗 You can [sponsor my work](https://github.com/sponsors/mohamedebrahim96).
 
 📫 [DM me on Twitter](https://twitter.com/mohamedhima96).
+
+
+
+## Find me around the web 🌎: <a href="https://github.com/mohamedebrahim96"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/mohamedebrahim96/mohamedebrahim96.github.io/master/Social%20Media%20Icons/android.gif"></a>
+- Learning in public on <a href="https://github.com/mohamedebrahim96">mohamedebrahim96</a> 📹 ✍🏾
+- Tinkering with interactions on <a href="https://github.com/mohamedebrahim96"> github</a> 🏓
+- Sharing updates on <a href="https://www.linkedin.com/in/mohamedebrahim96/">LinkedIn</a> 💼
+
