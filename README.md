@@ -5,7 +5,7 @@
 I'm a software engineer who is passionate about building android or iOS applications with  <a href="https://kotlinlang.org/"> Kotlin </a> and <a href="https://swift.org/"> Swift</a>.    
 Creating technology to elevate people, and building community. Some technologies I enjoy working with include 
 Machine Learning using <a href="https://www.tensorflow.org/">Tensorflow</a>, <a href="https://pytorch.org/">pytorch</a> and <a href="https://opencv.org/">openCV</a>. 
-I'm certified android developer from Google and Udacity.  I love making simple things with great impact. 
+I'm certified android developer from **Google** and **Udacity**.  I love making simple things with great impact. 
 I spend most of my time writing code or reading about interesting things.
 
 Currently I am [available for hire](https://twitter.com/mohamedhima96) (remotely, preferabily contracts or [32h/week](https://twitter.com/mohamedhima96)). 
