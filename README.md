@@ -2,8 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/mohamedebrahim96/mohamedebrahim96/master/images/gh-header-image.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
-I'm a software engineer who is passionate about building android or iOS applications with  
-<a href="https://kotlinlang.org/"> Kotlin </a> and <a href="https://swift.org/"> Swift</a>.
+I'm a software engineer who is passionate about building android or iOS applications with  <a href="https://kotlinlang.org/"> Kotlin </a> and <a href="https://swift.org/"> Swift</a>.
 Creating technology to elevate people, and building community. Some technologies I enjoy working with include 
 <span className='text-green-lighter'>Machine Learning</span> using Tensorflow, pytorch and openCV. 
 I'm certified android developer from Google and Udacity.  I love making simple things with great impact. 
